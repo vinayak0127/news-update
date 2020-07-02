@@ -1,0 +1,17 @@
+/*/////////news api/////////*/
+
+.container{
+  margin-top: 20px;
+
+}
+.title{
+   margin-top: 20px;
+  margin-bottom: 20px;
+
+}
+.single-news{
+  background-color: #DAE0E2;
+  padding:30px;
+  box-shadow: 3px 3px 8px grey;
+ border-radius: 10px;
+}
