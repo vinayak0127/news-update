@@ -3,7 +3,7 @@
   <title>news updates</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <?php  include 'css/style.php'; ?>
+  <?php  include 'newsstyle.php'; ?>
   <?php  include 'link/links.php'; ?>
    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@500;600;700&display=swap" rel="stylesheet">
 
